@@ -28,6 +28,22 @@ body {
 	text-align: center;
 }
 
+.container2{
+	width: 100%;
+	position: relative;
+	top: 35%;
+	text-align: center;
+	background-color: rgb(63, 63, 63);
+}
+
+.container3{
+	width: 100%;
+	position: top;
+	top: 35%;
+	text-align: center;
+	background-color: rgb(63, 63, 63);
+}
+
 h1 {
 	font-weight: 300;
 }
@@ -48,3 +64,6 @@ a:hover {
 	color: #ddd;
 }
 
+.footerClass{
+	background-color: rgb(63, 63, 63);
+}
